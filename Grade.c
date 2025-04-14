@@ -1,4 +1,3 @@
-#kushiiii
 #include<stdio.h>
 void main()
 {
